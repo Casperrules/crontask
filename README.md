@@ -1,2 +1,4 @@
 # crontask
-cookbook with custom cron resource
+
+TODO: Enter the cookbook description here.
+
